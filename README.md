@@ -1,2 +1,3 @@
-# calculator
+# Calculator Explainatio
+# Asees and Lukas
 This netbeans project  can perform all simple and basic functions for a calculator. The numbers are assigned to a button and are set with their values to be used on a text field. The numbers also have a if-else statement in its source code so that when a new number or sign is added, it would not just empty the text field, but instead add that to the same text field. The calculator can utlize addition, subtraction, multiplaction and division, all for single digits. When making the code for these signs, you create a button to intilize it and you assign it a String name. All arithemetic is done this way. The equal sign uses a else-if statement to detect which aritmetic is being used and it performs the action of that specific sign onto the integers. This calculators last feature is that it can also save and delete your outputs using M+, MR, and MC. M+ saves the output, MR uses the output, and MC deletes it.
